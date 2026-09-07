@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 👋 Hi, I'm Subhajit Kotal<br><br>🎓 I'm a **BSc Data Science student** with a strong interest in **Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision**.<br><br>### 🚀 What I'm Working On<br><br>* 🤖 AI & Machine Learning projects<br>* 👁️ Computer Vision and Object Detection<br>* 🧠 Deep Learning with CNNs and modern architectures<br>* 📊 Data Analysis and Data Science<br>* 🔍 OCR and real-world vision applications<br>* 💻 Python-based applications and automation<br><br>### 🎯 Goal<br><br>To build practical AI/ML solutions that solve **real-world problems** and continuously improve my skills through projects and experimentation.<br><br>📌 Currently learning, building, testing, and improving.<br>
 
 
